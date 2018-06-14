@@ -22,7 +22,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+This gem will prompt user to input location of areas and return list of bars participating in happy hour in their desired locale.
+
 
 ## Development
 
